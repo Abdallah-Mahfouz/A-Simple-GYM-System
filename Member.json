@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ahmed",
+    "nationalId": 1111,
+    "phoneNumber": "012",
+    "membership": { "from": "2024-05-01", "to": "2024-06-01", "cost": 100 },
+    "status": "active",
+    "trainerId": 1
+  },
+  {
+    "id": 2,
+    "name": "ali",
+    "nationalId": 2222,
+    "phoneNumber": "011",
+    "membership": { "from": "2024-02-01", "to": "2024-03-01", "cost": 200 },
+    "status": "freeze",
+    "trainerId": 2
+  }
+]
